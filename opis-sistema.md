@@ -5,4 +5,8 @@ Bibliotekar vodi računa o pozajmicama knjiga i povratu istih.
 ## Korisnici sistema:
 - Član biblioteke
 - Bibliotekar
-- Menadžer
+- Menadžer biblioteke
+## Osnovni zahtjevi:
+- Član biblioteke može pretraživati knjige po autoru i nazivu
+- Član biblioteke može pristupati popisu svojih pozajmica
+- Bibliotekar može evidentirati pozajmice i povrat knjiga
