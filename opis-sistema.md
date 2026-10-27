@@ -10,3 +10,4 @@ Bibliotekar vodi računa o pozajmicama knjiga i povratu istih.
 - Član biblioteke može pretraživati knjige po autoru i nazivu
 - Član biblioteke može pristupati popisu svojih pozajmica
 - Bibliotekar može evidentirati pozajmice i povrat knjiga
+- Član biblioteke može rezervisati knjigu koja trenutno nije dostupna
