@@ -1,0 +1,3 @@
+- Član uzima knjigu
+- Bibliotekar evidentira pozajmicu
+- Član ima rok od 21 dan da vrati knjigu
